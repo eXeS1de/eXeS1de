@@ -6,6 +6,11 @@
 
 ---
 
+### :man_technologist: About Me : 
+#### My name is Artem and I am Junior React Devoloper
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -20,4 +25,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eXeS1de&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eXeS1de&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
