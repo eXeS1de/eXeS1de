@@ -7,7 +7,7 @@
 ---
 
 ### :man_technologist: About Me : 
-#### My name is Artem and I am Junior React Devoloper
+#### My name is Artem and I am React Devoloper
 
 ---
 
